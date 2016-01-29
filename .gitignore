@@ -1,0 +1,8 @@
+*.suo
+*.user
+*.cache
+*.vshost.exe
+*.exe
+[obj]
+Thumbs.db
+Desktop.ini
